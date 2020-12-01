@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.success {
+	text-align: center;
+	font-weight: bold;
+}
+
+.bg {
+	background-color: #669bff35;
+	padding: 10px;
+}
